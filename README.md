@@ -10,3 +10,4 @@ cd kaori-secode // go to the newly created dir after cloning
 git branch -a // list of all branches
 git checkout sin13 // all data will be visible under kaori-secode dir
 git pull // to get all update
+2. Test
