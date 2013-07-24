@@ -8,6 +8,7 @@
  * 		Copyright (C) 2010-2013 Duy-Dinh Le.
  * 		All rights reserved.
  * 		Last update	: 10 Jul 2013.
+ * 		Test commit by lqvu
  */
 
 //*** Update Jul 21, 2012
